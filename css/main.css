@@ -1,0 +1,149 @@
+*{
+	margin:0px;
+	padding:0px;
+	box-sizing:border-box;
+	
+}
+.container{
+	max-width:1180px;
+	margin-left:auto;
+	margin-right:auto;
+	padding-left:15px;
+	padding-right:15px;
+}
+.pricing{
+	margin-top:20px;
+	
+}
+.heading{
+	text-align:center;
+}
+.heading h2{
+	padding-bottom:15px;
+	font-family:sans-serif;
+	font-size:22px;
+	color:#0e3f62;
+}
+.heading p{
+	padding-bottom:20px;
+	font-family:sans-serif;
+	font-size:13px;
+	color:#b7aca5;
+}
+.pricingflex{
+	display:flex;
+	
+	
+}
+.box {
+	width:33.3%;
+	text-align:center;
+	box-shadow:2px 3px 3px #f9fafa;
+	padding:0px 30px;
+	
+}
+.box2{
+	width:33.3%;
+	text-align:center;
+	background-color:#2487ce;
+	border-radius:7px;
+	box-shadow:2px 3px 3px  #f9fafa;
+	margin-left:20px;
+	margin-right:20px;
+	
+}
+.box h3{
+	padding-top:40px;
+	font-family:sans-serif;
+	font-size:13px;
+	color:#4b6d87;
+	padding-bottom:15px;
+}
+.box2 h3{
+	padding-top:40px;
+	font-family:sans-serif;
+	font-size:13px;
+	color:#fff;
+	padding-bottom:15px;
+}
+.box span{
+	color:#2487ce;
+	font-size:30px;
+	font-family:sans-serif;
+}
+.box3{
+	display:flex;
+	padding-left:38%;
+	padding-bottom:8px;
+}
+.box3 h4{
+	font-family:sans-serif;
+	font-size:13px;
+	padding-top:10px;
+	padding-left:2px;
+	color:#d4d2d9;
+}
+.box2 span{
+	color:#fff;
+	font-size:30px;
+	font-family:sans-serif;
+}
+.box2 h4{
+	font-family:sans-serif;
+	font-size:13px;
+	padding-top:10px;
+	padding-left:2px;
+	color:#fff;
+}
+.box2 p{
+	font-family:sans-serif;
+	font-size:12px;
+	color:#fff;
+	line-height:30px;
+	
+}
+.box2 h6{
+	font-family:sans-serif;
+	font-size:12px;
+	color:#fff;
+	padding-top:6px;
+	padding-bottom:10px;
+}
+.box4 {
+	padding-top:22px;
+	padding-bottom:50px;
+}
+.box2 button{
+	color:#fff;
+	background-color:#2487ce;
+	padding:10px 30px;
+	border: 1px solid #fff;
+}
+.box button{
+	color:#2487ce;
+	background-color:#fff;
+	padding:10px 30px;
+	border: 1px solid #2487ce;
+}
+
+	
+.box p{
+	font-family:sans-serif;
+	font-size:12px;
+	color:;
+	line-height:30px;
+	
+}
+.box h6{
+	font-family:sans-serif;
+	font-size:12px;
+	color:#d8d6d5;
+	padding-top:6px;
+	padding-bottom:10px;
+}
+.box h5{
+	color:#2487ce;
+}
+.box2 h5{
+	color:#fff;
+}
